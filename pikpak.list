@@ -11,8 +11,6 @@ DOMAIN-SUFFIX,user.mypikpak.net,☁️ pikpak
 DOMAIN-SUFFIX,rcv5-sp.mypikpak.com,☁️ pikpak
 DOMAIN-SUFFIX,inapp.mypikpak.com,☁️ pikpak
 
-# pc端 查看分享链接里的视频
-DOMAIN-SUFFIX,mypikpak.com,☁️ pikpak
 
 # 下列规则需要使用请删除前面的#
 
@@ -22,7 +20,11 @@ DOMAIN-SUFFIX,mypikpak.com,☁️ pikpak
 # 移动or被墙用户 自己添加到代理列表
 # DOMAIN-KEYWORD,dl-a10b,☁️ pikpak
 
-# 嫌麻烦不想分两个列表 上面所有都可以删除直接用这条全走代理
+# pc端 查看分享链接里的视频 无需求可忽略 跟下载冲突（会走代理）建议先将DOMAIN-KEYWORD,dl-a10b,🎯 全球直连 添加到直连列表并规则顺序得排在本列表之前
+# DOMAIN-SUFFIX,mypikpak.com,☁️ pikpak
+
+
+# 被墙用户嫌麻烦不想分多个列表 上面所有都可以删除直接用这条全走代理
 # DOMAIN-KEYWORD,mypikpak,☁️ pikpak
 
 # 可添加也可不添加 无用
