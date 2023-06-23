@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,rcv5-sp.mypikpak.com,☁️ pikpak
 DOMAIN-SUFFIX,inapp.mypikpak.com,☁️ pikpak
 
 # 下列规则需要使用请删除前面的#
+
 # 下载+视频 没被墙用户使用
 # DOMAIN-KEYWORD,dl-a10b,🎯 全球直连
 
