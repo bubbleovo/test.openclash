@@ -1,4 +1,4 @@
-# ip检测+分享检测
+# ip检测+分享检测 移动端可用
 DOMAIN-SUFFIX,access.mypikpak.com,☁️ pikpak
 DOMAIN-SUFFIX,access.mypikpak.net,☁️ pikpak
 DOMAIN-SUFFIX,access.pikpak.me,☁️ pikpak
@@ -10,6 +10,9 @@ DOMAIN-SUFFIX,user.mypikpak.com,☁️ pikpak
 DOMAIN-SUFFIX,user.mypikpak.net,☁️ pikpak
 DOMAIN-SUFFIX,rcv5-sp.mypikpak.com,☁️ pikpak
 DOMAIN-SUFFIX,inapp.mypikpak.com,☁️ pikpak
+
+# pc端 分享检测
+DOMAIN-SUFFIX,mypikpak.com,☁️ pikpak
 
 # 下列规则需要使用请删除前面的#
 
