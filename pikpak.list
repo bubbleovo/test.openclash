@@ -1,3 +1,4 @@
+# ip检测+分享检测
 DOMAIN-SUFFIX,access.mypikpak.com,☁️ pikpak
 DOMAIN-SUFFIX,access.mypikpak.net,☁️ pikpak
 DOMAIN-SUFFIX,access.pikpak.me,☁️ pikpak
@@ -9,3 +10,12 @@ DOMAIN-SUFFIX,user.mypikpak.com,☁️ pikpak
 DOMAIN-SUFFIX,user.mypikpak.net,☁️ pikpak
 DOMAIN-SUFFIX,rcv5-sp.mypikpak.com,☁️ pikpak
 DOMAIN-SUFFIX,inapp.mypikpak.com,☁️ pikpak
+
+# 下载+视频 没被墙用户使用
+DOMAIN-KEYWORD,dl-a10b,🎯 全球直连
+
+# 移动or被墙用户 自己添加到代理列表
+DOMAIN-KEYWORD,dl-a10b,☁️ pikpak
+
+# 嫌麻烦不想分两个列表 上面所有都可以删除直接用这条全走代理
+DOMAIN-KEYWORD,pikpak,☁️ pikpak
