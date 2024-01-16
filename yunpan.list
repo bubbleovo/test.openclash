@@ -21,3 +21,6 @@ DOMAIN-SUFFIX,storage.msn.com
 # pikpak
 DOMAIN-KEYWORD,dl-a10b
 IP-CIDR,47.79.0.0/16
+# yunpan
+DOMAIN-KEYWORD,mediafire
+DOMAIN-SUFFIX,cdn2020.com
