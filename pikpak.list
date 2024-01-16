@@ -11,7 +11,9 @@ DOMAIN-SUFFIX,user.mypikpak.com,☁️ pikpak
 DOMAIN-SUFFIX,user.mypikpak.net,☁️ pikpak
 DOMAIN-SUFFIX,rcv5-sp.mypikpak.com,☁️ pikpak
 DOMAIN-SUFFIX,inapp.mypikpak.com,☁️ pikpak
-
+IP-CIDR,47.236.10.67/32,☁️ pikpak
+IP-CIDR,8.222.0.0/16,☁️ pikpak
+#IP-CIDR,8.210.96.68/32,☁️ pikpak
 
 # 下列规则需要使用请删除前面的#
 
